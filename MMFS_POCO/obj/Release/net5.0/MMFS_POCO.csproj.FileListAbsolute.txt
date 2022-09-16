@@ -1,0 +1,17 @@
+D:\MMFS\MMFS_WebApi\MMFS_POCO\bin\Release\net5.0\MMFS_POCO.deps.json
+D:\MMFS\MMFS_WebApi\MMFS_POCO\bin\Release\net5.0\MMFS_POCO.dll
+D:\MMFS\MMFS_WebApi\MMFS_POCO\bin\Release\net5.0\ref\MMFS_POCO.dll
+D:\MMFS\MMFS_WebApi\MMFS_POCO\bin\Release\net5.0\MMFS_POCO.pdb
+D:\MMFS\MMFS_WebApi\MMFS_POCO\bin\Release\net5.0\MMFS_Common.dll
+D:\MMFS\MMFS_WebApi\MMFS_POCO\bin\Release\net5.0\MMFS_Models.dll
+D:\MMFS\MMFS_WebApi\MMFS_POCO\bin\Release\net5.0\MMFS_Common.pdb
+D:\MMFS\MMFS_WebApi\MMFS_POCO\bin\Release\net5.0\MMFS_Models.pdb
+D:\MMFS\MMFS_WebApi\MMFS_POCO\obj\Release\net5.0\MMFS_POCO.csproj.AssemblyReference.cache
+D:\MMFS\MMFS_WebApi\MMFS_POCO\obj\Release\net5.0\MMFS_POCO.GeneratedMSBuildEditorConfig.editorconfig
+D:\MMFS\MMFS_WebApi\MMFS_POCO\obj\Release\net5.0\MMFS_POCO.AssemblyInfoInputs.cache
+D:\MMFS\MMFS_WebApi\MMFS_POCO\obj\Release\net5.0\MMFS_POCO.AssemblyInfo.cs
+D:\MMFS\MMFS_WebApi\MMFS_POCO\obj\Release\net5.0\MMFS_POCO.csproj.CoreCompileInputs.cache
+D:\MMFS\MMFS_WebApi\MMFS_POCO\obj\Release\net5.0\MMFS_POCO.csproj.CopyComplete
+D:\MMFS\MMFS_WebApi\MMFS_POCO\obj\Release\net5.0\MMFS_POCO.dll
+D:\MMFS\MMFS_WebApi\MMFS_POCO\obj\Release\net5.0\ref\MMFS_POCO.dll
+D:\MMFS\MMFS_WebApi\MMFS_POCO\obj\Release\net5.0\MMFS_POCO.pdb

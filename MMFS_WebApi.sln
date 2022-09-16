@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMFS_WebApi", "MMFS_WebApi\MMFS_WebApi.csproj", "{4DAA6001-F662-4163-A463-2D898D3001C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMFS_Services", "MMFS_Services\MMFS_Services.csproj", "{5CB4837D-4E62-4285-967D-044A438C77FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMFS_Models", "MMFS_Models\MMFS_Models.csproj", "{962A866C-08F7-47F4-9871-10D99542BBF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMFS_POCO", "MMFS_POCO\MMFS_POCO.csproj", "{B31253FF-4A25-4F00-B02F-B3C80BC740C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMFS_Context", "MMFS_Context\MMFS_Context.csproj", "{6375C7C4-B25B-4345-A7F1-AA64197E9547}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMFS_AutoMapper", "MMFS_AutoMapper\MMFS_AutoMapper.csproj", "{E30F2BBD-EF41-4DEC-BB22-34CF17A3097E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMFS_Common", "MMFS_Common\MMFS_Common.csproj", "{AABF9BD4-DE5A-48CD-A96F-499A340F26E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DAA6001-F662-4163-A463-2D898D3001C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DAA6001-F662-4163-A463-2D898D3001C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DAA6001-F662-4163-A463-2D898D3001C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DAA6001-F662-4163-A463-2D898D3001C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CB4837D-4E62-4285-967D-044A438C77FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CB4837D-4E62-4285-967D-044A438C77FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CB4837D-4E62-4285-967D-044A438C77FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CB4837D-4E62-4285-967D-044A438C77FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{962A866C-08F7-47F4-9871-10D99542BBF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{962A866C-08F7-47F4-9871-10D99542BBF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{962A866C-08F7-47F4-9871-10D99542BBF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{962A866C-08F7-47F4-9871-10D99542BBF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B31253FF-4A25-4F00-B02F-B3C80BC740C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B31253FF-4A25-4F00-B02F-B3C80BC740C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B31253FF-4A25-4F00-B02F-B3C80BC740C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B31253FF-4A25-4F00-B02F-B3C80BC740C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6375C7C4-B25B-4345-A7F1-AA64197E9547}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6375C7C4-B25B-4345-A7F1-AA64197E9547}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6375C7C4-B25B-4345-A7F1-AA64197E9547}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6375C7C4-B25B-4345-A7F1-AA64197E9547}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E30F2BBD-EF41-4DEC-BB22-34CF17A3097E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E30F2BBD-EF41-4DEC-BB22-34CF17A3097E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E30F2BBD-EF41-4DEC-BB22-34CF17A3097E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E30F2BBD-EF41-4DEC-BB22-34CF17A3097E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AABF9BD4-DE5A-48CD-A96F-499A340F26E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AABF9BD4-DE5A-48CD-A96F-499A340F26E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AABF9BD4-DE5A-48CD-A96F-499A340F26E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AABF9BD4-DE5A-48CD-A96F-499A340F26E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FFE4BED-2564-4ACC-8C47-6CDA064A3179}
+	EndGlobalSection
+EndGlobal

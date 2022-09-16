@@ -1,0 +1,15 @@
+D:\MMFS\MMFS_WebApi\MMFS_Common\obj\Debug\net5.0\MMFS_Common.csproj.AssemblyReference.cache
+D:\MMFS\MMFS_WebApi\MMFS_Common\obj\Debug\net5.0\MMFS_Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\MMFS\MMFS_WebApi\MMFS_Common\obj\Debug\net5.0\MMFS_Common.AssemblyInfoInputs.cache
+D:\MMFS\MMFS_WebApi\MMFS_Common\obj\Debug\net5.0\MMFS_Common.AssemblyInfo.cs
+D:\MMFS\MMFS_WebApi\MMFS_Common\obj\Debug\net5.0\MMFS_Common.csproj.CoreCompileInputs.cache
+D:\MMFS\MMFS_WebApi\MMFS_Common\bin\Debug\net5.0\MMFS_Common.deps.json
+D:\MMFS\MMFS_WebApi\MMFS_Common\bin\Debug\net5.0\MMFS_Common.dll
+D:\MMFS\MMFS_WebApi\MMFS_Common\bin\Debug\net5.0\ref\MMFS_Common.dll
+D:\MMFS\MMFS_WebApi\MMFS_Common\bin\Debug\net5.0\MMFS_Common.pdb
+D:\MMFS\MMFS_WebApi\MMFS_Common\obj\Debug\net5.0\MMFS_Common.dll
+D:\MMFS\MMFS_WebApi\MMFS_Common\obj\Debug\net5.0\ref\MMFS_Common.dll
+D:\MMFS\MMFS_WebApi\MMFS_Common\obj\Debug\net5.0\MMFS_Common.pdb
+D:\MMFS\MMFS_WebApi\MMFS_Common\bin\Debug\net5.0\MMFS_Models.dll
+D:\MMFS\MMFS_WebApi\MMFS_Common\bin\Debug\net5.0\MMFS_Models.pdb
+D:\MMFS\MMFS_WebApi\MMFS_Common\obj\Debug\net5.0\MMFS_Common.csproj.CopyComplete

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "S7HeJgRPcGXk9XhunEFG5KO+EKkc4sJu1gxTz6JPo+uRQn9SscORHZL8/EtVgH+8yCQa+QrRsj/4J3hEtI0TKw==",
+  "success": true,
+  "projectFilePath": "D:\\My Project\\MyProject\\MMFS FrontEnd\\MMFS\\MMFS_Models\\MMFS_Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\umair.khan05\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.0\\microsoft.aspnetcore.http.features.5.0.0.nupkg.sha512",
+    "C:\\Users\\umair.khan05\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\umair.khan05\\.nuget\\packages\\system.io.pipelines\\5.0.0\\system.io.pipelines.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

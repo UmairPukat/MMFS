@@ -1,0 +1,417 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\My Project\\MyProject\\MMFS FrontEnd\\MMFS\\MMFS_Services\\MMFS_Services.csproj": {}
+  },
+  "projects": {
+    "D:\\My Project\\MyProject\\MMFS FrontEnd\\MMFS\\MMFS_AutoMapper\\MMFS_AutoMapper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\My Project\\MyProject\\MMFS FrontEnd\\MMFS\\MMFS_AutoMapper\\MMFS_AutoMapper.csproj",
+        "projectName": "MMFS_AutoMapper",
+        "projectPath": "D:\\My Project\\MyProject\\MMFS FrontEnd\\MMFS\\MMFS_AutoMapper\\MMFS_AutoMapper.csproj",
+        "packagesPath": "C:\\Users\\umair.khan05\\.nuget\\packages\\",
+        "outputPath": "D:\\My Project\\MyProject\\MMFS FrontEnd\\MMFS\\MMFS_AutoMapper\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\umair.khan05\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\My Project\\MyProject\\MMFS FrontEnd\\MMFS\\MMFS_Models\\MMFS_Models.csproj": {
+                "projectPath": "D:\\My Project\\MyProject\\MMFS FrontEnd\\MMFS\\MMFS_Models\\MMFS_Models.csproj"
+              },
+              "D:\\My Project\\MyProject\\MMFS FrontEnd\\MMFS\\MMFS_POCO\\MMFS_POCO.csproj": {
+                "projectPath": "D:\\My Project\\MyProject\\MMFS FrontEnd\\MMFS\\MMFS_POCO\\MMFS_POCO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\My Project\\MyProject\\MMFS FrontEnd\\MMFS\\MMFS_Common\\MMFS_Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\My Project\\MyProject\\MMFS FrontEnd\\MMFS\\MMFS_Common\\MMFS_Common.csproj",
+        "projectName": "MMFS_Common",
+        "projectPath": "D:\\My Project\\MyProject\\MMFS FrontEnd\\MMFS\\MMFS_Common\\MMFS_Common.csproj",
+        "packagesPath": "C:\\Users\\umair.khan05\\.nuget\\packages\\",
+        "outputPath": "D:\\My Project\\MyProject\\MMFS FrontEnd\\MMFS\\MMFS_Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\umair.khan05\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\My Project\\MyProject\\MMFS FrontEnd\\MMFS\\MMFS_Models\\MMFS_Models.csproj": {
+                "projectPath": "D:\\My Project\\MyProject\\MMFS FrontEnd\\MMFS\\MMFS_Models\\MMFS_Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "MimeKit": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "NETCore.MailKit": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\My Project\\MyProject\\MMFS FrontEnd\\MMFS\\MMFS_Context\\MMFS_Context.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\My Project\\MyProject\\MMFS FrontEnd\\MMFS\\MMFS_Context\\MMFS_Context.csproj",
+        "projectName": "MMFS_Context",
+        "projectPath": "D:\\My Project\\MyProject\\MMFS FrontEnd\\MMFS\\MMFS_Context\\MMFS_Context.csproj",
+        "packagesPath": "C:\\Users\\umair.khan05\\.nuget\\packages\\",
+        "outputPath": "D:\\My Project\\MyProject\\MMFS FrontEnd\\MMFS\\MMFS_Context\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\umair.khan05\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\My Project\\MyProject\\MMFS FrontEnd\\MMFS\\MMFS_POCO\\MMFS_POCO.csproj": {
+                "projectPath": "D:\\My Project\\MyProject\\MMFS FrontEnd\\MMFS\\MMFS_POCO\\MMFS_POCO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\My Project\\MyProject\\MMFS FrontEnd\\MMFS\\MMFS_Models\\MMFS_Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\My Project\\MyProject\\MMFS FrontEnd\\MMFS\\MMFS_Models\\MMFS_Models.csproj",
+        "projectName": "MMFS_Models",
+        "projectPath": "D:\\My Project\\MyProject\\MMFS FrontEnd\\MMFS\\MMFS_Models\\MMFS_Models.csproj",
+        "packagesPath": "C:\\Users\\umair.khan05\\.nuget\\packages\\",
+        "outputPath": "D:\\My Project\\MyProject\\MMFS FrontEnd\\MMFS\\MMFS_Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\umair.khan05\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\My Project\\MyProject\\MMFS FrontEnd\\MMFS\\MMFS_POCO\\MMFS_POCO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\My Project\\MyProject\\MMFS FrontEnd\\MMFS\\MMFS_POCO\\MMFS_POCO.csproj",
+        "projectName": "MMFS_POCO",
+        "projectPath": "D:\\My Project\\MyProject\\MMFS FrontEnd\\MMFS\\MMFS_POCO\\MMFS_POCO.csproj",
+        "packagesPath": "C:\\Users\\umair.khan05\\.nuget\\packages\\",
+        "outputPath": "D:\\My Project\\MyProject\\MMFS FrontEnd\\MMFS\\MMFS_POCO\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\umair.khan05\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\My Project\\MyProject\\MMFS FrontEnd\\MMFS\\MMFS_Common\\MMFS_Common.csproj": {
+                "projectPath": "D:\\My Project\\MyProject\\MMFS FrontEnd\\MMFS\\MMFS_Common\\MMFS_Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\My Project\\MyProject\\MMFS FrontEnd\\MMFS\\MMFS_Services\\MMFS_Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\My Project\\MyProject\\MMFS FrontEnd\\MMFS\\MMFS_Services\\MMFS_Services.csproj",
+        "projectName": "MMFS_Services",
+        "projectPath": "D:\\My Project\\MyProject\\MMFS FrontEnd\\MMFS\\MMFS_Services\\MMFS_Services.csproj",
+        "packagesPath": "C:\\Users\\umair.khan05\\.nuget\\packages\\",
+        "outputPath": "D:\\My Project\\MyProject\\MMFS FrontEnd\\MMFS\\MMFS_Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\umair.khan05\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\My Project\\MyProject\\MMFS FrontEnd\\MMFS\\MMFS_AutoMapper\\MMFS_AutoMapper.csproj": {
+                "projectPath": "D:\\My Project\\MyProject\\MMFS FrontEnd\\MMFS\\MMFS_AutoMapper\\MMFS_AutoMapper.csproj"
+              },
+              "D:\\My Project\\MyProject\\MMFS FrontEnd\\MMFS\\MMFS_Common\\MMFS_Common.csproj": {
+                "projectPath": "D:\\My Project\\MyProject\\MMFS FrontEnd\\MMFS\\MMFS_Common\\MMFS_Common.csproj"
+              },
+              "D:\\My Project\\MyProject\\MMFS FrontEnd\\MMFS\\MMFS_Context\\MMFS_Context.csproj": {
+                "projectPath": "D:\\My Project\\MyProject\\MMFS FrontEnd\\MMFS\\MMFS_Context\\MMFS_Context.csproj"
+              },
+              "D:\\My Project\\MyProject\\MMFS FrontEnd\\MMFS\\MMFS_Models\\MMFS_Models.csproj": {
+                "projectPath": "D:\\My Project\\MyProject\\MMFS FrontEnd\\MMFS\\MMFS_Models\\MMFS_Models.csproj"
+              },
+              "D:\\My Project\\MyProject\\MMFS FrontEnd\\MMFS\\MMFS_POCO\\MMFS_POCO.csproj": {
+                "projectPath": "D:\\My Project\\MyProject\\MMFS FrontEnd\\MMFS\\MMFS_POCO\\MMFS_POCO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
